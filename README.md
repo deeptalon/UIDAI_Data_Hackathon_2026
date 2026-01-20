@@ -44,8 +44,9 @@ Time-Series Decomposition: Extracted Month, Day_of_Week, and Week_Number to iden
 
 📂 Dataset Information
 
-This is the link of cleaned dataset after merging all three enrollment dataset.(You can cheak cleaned dataset also.)
-https://drive.google.com/file/d/1juc-PMyi9ZGMs7Bqy4mcTDsuA5c5gW18/view?usp=drive_link
+This is the link of cleaned dataset after merging all three enrollment dataset.(You can check cleaned dataset also.)
+https://drive.google.com/file/d/1juc-PMyi9ZGMs7Bqy4mcTDsuA5c5gW18/view?usp=sharing
+
 
 The analysis utilizes datasets covering the period up to December 31, 2025.
 

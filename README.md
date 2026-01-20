@@ -51,8 +51,9 @@ The analysis yielded high-impact findings regarding the current state of Aadhaar
 ---
 
 ## 📂 Dataset Information  
-This repository includes the **cleaned dataset** after merging all three enrollment datasets.  
-*(You can check the cleaned dataset for reference.)* 
+You can access **cleaned dataset** named *(cleaned_UIDAI_enrolment_data.csv.)* after merging all three enrollment datasets from following Link:
+
+https://drive.google.com/file/d/1juc-PMyi9ZGMs7Bqy4mcTDsuA5c5gW18/view?usp=sharing
 
 ---
 
